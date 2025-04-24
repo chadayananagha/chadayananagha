@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anagha Chadayan!
 ##  Welcome to My GitHub Profile!  👋
 
----
+
 
 ## 👩‍💻 About Me
 I am a **web and app developer** with a **Master of Engineering in Computer Science and Engineering**, and I have completed an intensive **Full Stack Web and App Development Bootcamp** at WBS Coding School in Berlin. 💻  
