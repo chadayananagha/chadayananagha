@@ -1,3 +1,6 @@
+![Banner](https://your-banner-image-url.com)
+
+
 # 👋 Hi, I'm Anagha Chadayan!
 ##  Welcome to My GitHub Profile!  👋
 
