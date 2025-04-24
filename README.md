@@ -1,5 +1,5 @@
-![Banner](![image](https://github.com/user-attachments/assets/c1b1ce98-414f-4b6e-bdd3-93364e5e0e93)
-)
+![Banner](https://github.com/chadayananagha/chadayananagha/blob/main/Anu.jfif)
+
 
 
 # 👋 Hi, I'm Anagha Chadayan!
