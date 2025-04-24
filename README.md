@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chadayananagha!
+# 👋 Hi, I'm Anagha Chadayan!
 ##  Welcome to My GitHub Profile!  👋
 
 ---
